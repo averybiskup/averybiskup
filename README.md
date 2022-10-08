@@ -1,1 +1,1 @@
-Big fan of plain text, and vim.
+Big fan of plain text and vim.
